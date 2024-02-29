@@ -1,5 +1,9 @@
 
 import data from "./data";
+import Products from './Products/Products';
+import Home from './Home/Home';
+import Orders from './Orders/Orders'
+
 function Products() {
     return (
     <div className="content">
